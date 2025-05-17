@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>Découvrez notre sélection des meilleures promos</mj-title>
+    <mj-title>5 choses à savoir sur les Répéteurs</mj-title>
     <mj-font name="Source Sans 3" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&amp;display=swap"></mj-font>
     <mj-raw>
       <meta charset="UTF-8">
@@ -38,7 +38,7 @@
     <mj-section padding="24px 30px" mj-class="bgT1">
       <mj-group>
         <mj-column vertical-align="middle">
-          <mj-image align="left" padding="0" width="130px" src="./images/white+NGLogotype.png" alt="logo Netgear en noir"/>
+          <mj-image align="left" padding="0" width="130px" src="./images/netgearWhite.png" alt="logo Netgear"/>
         </mj-column>
         <mj-column vertical-align="middle">
           <mj-text align="right" padding="0" mj-class="T9-400" color="#ababab" text-transform="uppercase" letter-spacing="2px"><a style="text-decoration:none;color:#ababab;" href="#">version en ligne&nbsp;&#x23f5;</a></mj-text>
@@ -47,7 +47,7 @@
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
       <mj-column>
-        <mj-image padding="0" width="700px" src="./images/img1.jpg" alt="famille entrain de consulter ensemble une tablette numérique"/>
+        <mj-image padding="0" width="700px" src="./images/imgPrincipal.jpg" alt=""/>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" mj-class="bgW">
@@ -117,15 +117,10 @@
         <mj-button padding-bottom="10px" mj-class="bgW cT0" href="#">Découvrir</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section padding="14px 14px 30px 14px" mj-class="bgW">
-      <mj-column>
-        <mj-text align="center" padding="0" mj-class="T15-300 cT0">* Code promo « ORBI10 » valable jusqu'au 9 Aout inclus sur la sélection suivante : RBK752-100EUS, RBK753-100EUS, RBK754-100EUS et RBK755-100EUS. Code promo « MOB10 » valable jusqu'au 23 Aout inclus sur la catégorie « Routeurs & Hotspots 4G/ 5G », et hors sélection suivante : MR5200-100EUS et 6000460. Offre cumulable avec les promos en cours. Offre valable dans la limite des stocks disponibles.</mj-text>
-      </mj-column>
-    </mj-section>
     <mj-wrapper mj-class="bgW" padding="30px 28px 31px">
       <mj-section padding="0" padding-bottom="36px">
         <mj-column width="20%" vertical-align="middle">
-          <mj-image padding="0" width="140px" src="./images/black+NGLogotype.png" alt="logo Netgear de couleur noir"/>
+          <mj-image padding="0" width="140px" src="./images/netgearBlack.png" alt="logo Netgear de couleur noir"/>
         </mj-column>
         <mj-column width="50%" vertical-align="middle"></mj-column>
         <mj-column width="30%" vertical-align="middle">
