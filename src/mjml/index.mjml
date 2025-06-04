@@ -14,9 +14,11 @@
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
+      <mj-class name="T35-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="35px" line-height="45px" font-weight="300"/>
       <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
       <mj-class name="T30-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="300"/>
       <mj-class name="T20-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="35px" font-weight="500"/>
+      <mj-class name="T20-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="35px" font-weight="300"/>
       <mj-class name="T18-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="18px" line-height="25px" font-weight="500"/>
       <mj-class name="T17-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="24px" font-weight="500"/>
       <mj-class name="T15-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="15px" line-height="22px" font-weight="500"/>
@@ -142,10 +144,10 @@
         <mj-button mj-class="cTW bgB" href="#">j'en profite</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section mj-class="bgB">
+    <mj-section mj-class="bgB" padding="25px 30px">
       <mj-column>
-        <mj-text align="center" mj-class="cTW">Plutôt intéressé par les Systèmes Mesh Orbi WiFi 6 ?</mj-text>
-        <mj-text align="center" mj-class="cTW">Ne manquez pas notre promo en cours</mj-text>
+        <mj-text align="center" padding="0" mj-class="T35-300 cTW" letter-spacing="2px">Plutôt intéressé par les&nbsp;Systèmes&nbsp;Mesh&nbsp;Orbi&nbsp;WiFi&nbsp;6&nbsp;?</mj-text>
+        <mj-text align="center" padding="0" mj-class="T20-300 cTW" letter-spacing="2px">Ne manquez pas notre promo en cours</mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgW">
