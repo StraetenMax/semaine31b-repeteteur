@@ -99,9 +99,9 @@
         <mj-text align="center" padding="0" mj-class="T17-500">Plusieurs modèles sont disponibles et à des vitesses différentes pouvant aller jusqu'à 6 Gbit/s.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section mj-class="bgT1">
+    <mj-section mj-class="bgT1" padding="25px 35px">
       <mj-column>
-        <mj-text align="center" mj-class="cTW">Découvrez nos Répéteurs WiFi Mesh et profitez des promos en cours</mj-text>
+        <mj-text align="center" padding="0" mj-class="T35-300 cTW" letter-spacing="2px">Découvrez nos Répéteurs WiFi Mesh et profitez des promos en cours</mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgW">
