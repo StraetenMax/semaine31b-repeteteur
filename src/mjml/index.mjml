@@ -14,7 +14,8 @@
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
-      <mj-class name="T35-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="35px" line-height="45px" font-weight="300"/>
+      <mj-class name="T35-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="35px" line-height="50px" font-weight="300"/>
+      <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
       <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
       <mj-class name="T30-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="300"/>
       <mj-class name="T20-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="20px" line-height="35px" font-weight="500"/>
@@ -48,9 +49,9 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section mj-class="bgT1">
+    <mj-section mj-class="bgT1" padding="25px 35px">
       <mj-column>
-        <mj-text align="center" mj-class="cTW">5 choses à savoir sur les Répéteurs</mj-text>
+        <mj-text align="center" padding="0" mj-class="T32-300 cTW" letter-spacing="2px">5 choses à savoir sur les Répéteurs</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="0" mj-class="bgW">
