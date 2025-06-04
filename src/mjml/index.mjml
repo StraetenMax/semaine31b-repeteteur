@@ -46,6 +46,11 @@
         </mj-column>
       </mj-group>
     </mj-section>
+    <mj-section mj-class="bgT1">
+      <mj-column>
+        <mj-text align="center" mj-class="cTW">5 choses à savoir sur les Répéteurs</mj-text>
+      </mj-column>
+    </mj-section>
     <mj-section padding="0" mj-class="bgW">
       <mj-column>
         <mj-image padding="0" width="700px" src="./images/imgPrincipal.jpg" alt=""/>
@@ -53,8 +58,10 @@
     </mj-section>
     <mj-section padding="20px" mj-class="bgW">
       <mj-column border="1px solid #cecece" padding="10px">
-        <mj-text padding="5px 0" padding-bottom="10px" align="center" mj-class="T18-500" letter-spacing="1px"><strong>A ne pas rater&nbsp;!</strong></mj-text>
-        <mj-text padding="5px 0" padding-bottom="10px" align="center" mj-class="T18-500" letter-spacing="1px">C'est l'occasion ou jamais de profiter des promos exceptionnelles grâce à nos réductions et aux codes promos* cumulables. Profitez-en et découvrez notre sélection faite rien que pour vous&nbsp;!</mj-text>
+        <mj-text padding="5px 0" padding-bottom="10px" align="center" mj-class="T18-500" letter-spacing="1px">Boostez votre WiFi</mj-text>
+        <mj-text padding="5px 0" padding-bottom="10px" align="center" mj-class="T18-500" letter-spacing="1px">Dans une maison, il est parfois compliqué de bénéficier du WiFi dans les pièces éloignées de la box.</mj-text>
+        <mj-text padding="5px 0" padding-bottom="10px" align="center" mj-class="T18-500" letter-spacing="1px">Les répéteurs WiFi ont spécialement été conçus pour résoudre ce type de problème. Ils captent le signal de votre box pour le répéter dans les pièces où le WiFi était alors inaccessible. Format prise murale ou boitier avec plusieurs ports Ethernet intégrés, <span style="text-transform:uppercase">Netgear</span> propose une diversité de modèles pour répondre à vos besoins spécifiques.</mj-text>
+        <mj-text padding="5px 0" padding-bottom="10px" align="center" mj-class="T18-500" letter-spacing="1px">Découvrez les 5 choses à savoir sur les Répéteurs et profitez de nos offres promotionnelles pour vous équiper d'un WiFi performant au meilleur prix.</mj-text>
         <mj-button align="center" mj-class="bgB cTW" href="#">Découvrir</mj-button>
       </mj-column>
     </mj-section>
@@ -64,7 +71,7 @@
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgW">
-      <mj-column width="50%" padding="10px">
+      <mj-column width="50%" padding="10px 20px">
         <mj-text align="center" padding="0" mj-class="T17-500"><strong>1</strong></mj-text>
         <mj-text align="center" padding="0" mj-class="T17-500" text-transform="uppercase"><strong>Norme wifi</strong></mj-text>
         <mj-text align="center" padding="0" mj-class="T17-500">La dernière norme WiFi 6 est aussi disponible sur la catégorie des Répéteurs.</mj-text>
@@ -82,12 +89,17 @@
       <mj-column width="33.333333%" padding="10px">
         <mj-text align="center" padding="0" mj-class="T17-500"><strong>4</strong></mj-text>
         <mj-text align="center" padding="0" mj-class="T17-500" text-transform="uppercase"><strong>Comptabilité</strong></mj-text>
-        <mj-text align="center" padding="0" padding-bottom="20px" mj-class="T17-500">Les Répéteurs NetGear sont compatibles avec toutes les box et modems qui existent sur le marché.</mj-text>
+        <mj-text align="center" padding="0" padding-bottom="20px" mj-class="T17-500">Les Répéteurs <span style="text-transform:uppercase;">NetGear</span> sont compatibles avec toutes les box et modems qui existent sur le marché.</mj-text>
       </mj-column>
       <mj-column width="33.333333%" padding="10px">
         <mj-text align="center" padding="0" mj-class="T17-500"><strong>5</strong></mj-text>
         <mj-text align="center" padding="0" mj-class="T17-500" text-transform="uppercase"><strong>Vitesse</strong></mj-text>
         <mj-text align="center" padding="0" mj-class="T17-500">Plusieurs modèles sont disponibles et à des vitesses différentes pouvant aller jusqu'à 6 Gbit/s.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="bgT1">
+      <mj-column>
+        <mj-text align="center" mj-class="cTW">Découvrez nos Répéteurs WiFi Mesh et profitez des promos en cours</mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgW">
@@ -128,6 +140,12 @@
         <mj-text align="center" padding="0" mj-class="T18-500"><strong>jusqu'à 3 Gbit/s</strong></mj-text>
         <mj-text align="center" padding="0" padding-bottom="20px" mj-class="T18-500"><span style="color:#ff0909;text-decoration-line:line-through;">169.99€</span> <strong style="color:#00A4DE">144.99€</strong></mj-text>
         <mj-button mj-class="cTW bgB" href="#">j'en profite</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section mj-class="bgB">
+      <mj-column>
+        <mj-text align="center" mj-class="cTW">Plutôt intéressé par les Systèmes Mesh Orbi WiFi 6 ?</mj-text>
+        <mj-text align="center" mj-class="cTW">Ne manquez pas notre promo en cours</mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgW">
